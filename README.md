@@ -15,7 +15,7 @@ DurianPi HYY-P1 has rich interfaces, multi-channel input and output, and can ach
 ![](./Documents/HYY-P1/imgs/durian_pi_p1_2.png)
 
 # Durian Pi HYY-D1 
-The Durian Pi HYY-D1 is a single board computer designed by HYY company based on the Amlogic S905X3 chip. It adopts a 12nm process, four 64 bit ARM A55 architecture CPUs, integrates G31 GPU, supports 8K encoding and decoding, and supports multiple systems such as Linux and Android. The specifications and performance of HYY-D1 can be completely comparable to Odroid C4 and Raspberry PI 4. In the current global shortage of Raspberry PI, BPI-M5 is a very good substitute. Moreover, the supply of HYY-D1 is relatively stable, which is an advantage for the project.
+The Durian Pi HYY-D1 is a single board computer designed by HYY company based on the Amlogic S905X3 chip. It adopts a 12nm process, four 64 bit ARM A55 architecture CPUs, integrates G31 GPU, supports 8K encoding and decoding, and supports multiple systems such as Linux and Android. The specifications and performance of HYY-D1 can be completely comparable to Odroid C4 and Raspberry PI 4. In the current global shortage of Raspberry PI, HYY-D1 is a very good substitute. Moreover, the supply of HYY-D1 is relatively stable, which is an advantage for the project.
 - [ Durian Pi HYY-D1.pdf](./Documents/HYY-D1/Durian-Pi-HYY-D1.pdf.pdf?raw=true)
 ![](./Documents/HYY-D1/imgs/durian_pi_d1_1.png)
 
